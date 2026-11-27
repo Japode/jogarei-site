@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><script>(function(){const imgProxy = "https://img.jogarei.com.br";
+const aliases = {"apple":["is1-ssl.mzstatic.com","is3-ssl.mzstatic.com","is5-ssl.mzstatic.com","is2-ssl.mzstatic.com","is4-ssl.mzstatic.com"],"steam":["shared.akamai.steamstatic.com"],"steam-avatar":["avatars.fastly.steamstatic.com"],"itch":["img.itch.zone"],"gamejolt":["m.gjcdn.net"],"play":["play-lh.googleusercontent.com"],"big":["bigjogos.s3.us-east-2.amazonaws.com"],"wiki":["upload.wikimedia.org"],"wiki-commons":["commons.wikimedia.org"],"wiki-thumb":["thumb.wikimedia.org"],"igdb":["images.igdb.com"]};
+
+      // the same rule as src/lib/images.js, for images a script sets (Discover, Salvos)
+      const prefix = imgProxy + '/';
+      window.jogareiImage = (url) => {
+        if (!/^(https?:)?\/\//i.test(url || '')) return url;
+        try {
+          const u = new URL(url, location.href);
+          if (u.username || u.password || u.port) return url;
+          const alias = Object.keys(aliases).find((a) => aliases[a].includes(u.hostname.toLowerCase()));
+          return alias ? prefix + alias + u.pathname + u.search : url;
+        } catch (e) {
+          return url;
+        }
+      };
+      // the proxy failed: back to the original host
+      document.addEventListener('error', (event) => {
+        const img = event.target;
+        if (img.tagName !== 'IMG' || img.dataset.proxyFallback || !img.src.startsWith(prefix)) return;
+        const rest = img.src.slice(prefix.length);
+        const hosts = aliases[rest.slice(0, rest.indexOf('/'))];
+        if (!Array.isArray(hosts)) return;
+        img.dataset.proxyFallback = '1';
+        img.src = 'https://' + hosts[0] + rest.slice(rest.indexOf('/'));
+      }, true);
+    })();</script><script>(function(){const gtm = "GTM-5CRR7LC3";
+
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { window.dataLayer.push(arguments); };
+      window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+      const s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtm.js?id=' + gtm;
+      document.head.appendChild(s);
+    })();</script><title>Coralina na Jogarei TV</title><meta name="description" content="RPG retrô sobre memórias perdidas no limbo, resolvendo casos ao lado de um corvo de cartola. Na Jogarei TV, no programa Ação sem pausa, episódio 2."><meta name="robots" content="noindex"><link rel="canonical" href="https://jogarei.com.br/tv/assistir/coralina/"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><meta name="theme-color" content="#211D1A"><meta property="og:type" content="website"><meta property="og:site_name" content="Jogarei"><meta property="og:locale" content="pt_BR"><meta property="og:title" content="Coralina na Jogarei TV"><meta property="og:description" content="RPG retrô sobre memórias perdidas no limbo, resolvendo casos ao lado de um corvo de cartola. Na Jogarei TV, no programa Ação sem pausa, episódio 2."><meta property="og:url" content="https://jogarei.com.br/tv/assistir/coralina/"><meta property="og:image" content="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246120/ss_f9a15476b6a4f2e2ce47e5af493ea547c698a474.1920x1080.jpg?t=1777146004"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246120/ss_f9a15476b6a4f2e2ce47e5af493ea547c698a474.1920x1080.jpg?t=1777146004"><link rel="stylesheet" href="/_astro/Base.4CKP2nZc.css"><style>.go[data-astro-cid-si2aazvn]{text-align:center;padding:48px 16px}
+</style></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CRR7LC3" height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe></noscript><main><meta http-equiv="refresh" content="0; url=/tv/?programa=acao-sem-pausa-2&amp;jogo=coralina"><p class="go" data-astro-cid-si2aazvn><a href="/tv/?programa=acao-sem-pausa-2&amp;jogo=coralina" data-astro-cid-si2aazvn>Assistir Coralina na Jogarei TV</a></p><script>(function(){const watch = "/tv/?programa=acao-sem-pausa-2&jogo=coralina";
+location.replace(watch);})();</script></main><script type="module" src="/_astro/Base.astro_astro_type_script_index_0_lang.DtYlh84t.js"></script></body></html>

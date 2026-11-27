@@ -1,0 +1,1 @@
+var e=`jogarei:som`,t=t=>{try{let n=localStorage.getItem(e);return n===null?t:n===`true`}catch{return t}},n=t=>{try{localStorage.setItem(e,String(t))}catch{}};export{t as n,n as t};

@@ -1,0 +1,64 @@
+# JO22: where the site's "Indicar jogo", "Sugerir correção" and "Indicar um estúdio"
+# land. The site's /indicar/ form opens issues/new?template=sugestao.yml with these
+# field ids pre-filled, on the public repository japode/jogarei-site (the source repository
+# is private, so a visitor could not open an issue there). This file lives in site/public so
+# every deploy puts it on jogarei-site's default branch (gh-pages), where GitHub reads issue
+# templates; the deploy step keeps .github (exclude_assets). Nothing here is published: a maintainer checks the evidence and,
+# when it holds, writes an add_game, add_studio or set entry into data/overrides.json
+# (crawler/README.md, "Hand corrections").
+name: Sugestão ao catálogo
+description: Indicar um jogo ou estúdio brasileiro que falta, ou corrigir um dado errado.
+title: "[Sugestão] "
+labels: ["sugestao"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado! Toda sugestão é conferida antes de entrar no catálogo: só entra como
+        brasileiro o jogo cuja origem uma fonte confirma.
+  - type: input
+    id: tipo
+    attributes:
+      label: Tipo
+      description: Jogo que falta, Estúdio que falta, Correção, Este jogo é meu ou Meu jogo de navegador no itch.io
+    validations:
+      required: true
+  - type: input
+    id: nome
+    attributes:
+      label: Jogo ou estúdio
+      description: O nome, ou o endereço da página no Jogarei quando é uma correção
+    validations:
+      required: true
+  - type: input
+    id: evidencia
+    attributes:
+      label: Link de prova
+      description: Loja, site do estúdio, notícia ou perfil que mostre o dado (por exemplo, que o estúdio é do Brasil)
+    validations:
+      required: true
+  # JO32: where the studio works. A filled uf becomes the add_studio entry's city and uf.
+  # JO175: with "Este jogo é meu" only uf comes (the site sends no city for a developer who
+  # is a person); review it as crawler/src/jogarei_crawler/overrides.py says.
+  # JO210: with "Meu jogo de navegador no itch.io" the evidencia is the game's itch.io page
+  # and uf is required; overrides.py says how an editor turns it into an add_game entry.
+  - type: input
+    id: cidade
+    attributes:
+      label: Cidade do estúdio (opcional)
+      description: Onde o estúdio trabalha; é o que o coloca no mapa por estado
+  - type: input
+    id: uf
+    attributes:
+      label: Estado do estúdio (opcional)
+      description: A sigla, por exemplo SP ou MG
+  - type: textarea
+    id: detalhes
+    attributes:
+      label: Detalhes
+      description: O que falta ou o que está errado, e qual é o dado certo
+  - type: input
+    id: contato
+    attributes:
+      label: Contato (opcional)
+      description: Fica público nesta issue; deixe em branco se preferir

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="44" viewBox="0 0 300 44" role="img" aria-label="Jogo brasileiro verificado no Jogarei">
+<title>Jogo brasileiro verificado no Jogarei</title>
+<rect x="0.5" y="0.5" width="299" height="43" rx="12" fill="#F6F0E6" stroke="#F6F0E6"/>
+<text x="16" y="28" font-family="'Bricolage Grotesque', 'Arial Black', Arial, sans-serif" font-weight="800" font-size="18" letter-spacing="-0.5" fill="#211D1A" textLength="62" lengthAdjust="spacingAndGlyphs">jogarei</text>
+<text x="78" y="28" font-family="'Arial Black', Arial, sans-serif" font-weight="800" font-size="18" fill="#FF5A36">.</text>
+<rect x="94" y="10" width="1" height="24" fill="#CFC3B4"/>
+<path d="M107 22l4 4 8-9" fill="none" stroke="#1E7A4C" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="126" y="27" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" fill="#211D1A" textLength="158" lengthAdjust="spacingAndGlyphs">Jogo brasileiro verificado</text>
+</svg>

@@ -1,0 +1,1 @@
+var e=/^[a-z0-9][a-z0-9-]{0,80}$/;function t(t){let n=new URLSearchParams(t).get(`j`)??``;return[...new Set(n.split(`,`).map(e=>e.trim().toLowerCase()).filter(t=>e.test(t)))].slice(0,60)}function n(e,n,r){return`${e}${n}lista/?j=${t(`?j=${r.join(`,`)}`).join(`,`)}`}export{t as n,n as t};

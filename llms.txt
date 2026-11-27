@@ -1,0 +1,83 @@
+# Jogarei
+
+> Catálogo de jogos feitos no Brasil: 3.658 jogos com origem brasileira verificada por uma fonte (Wikidata, Wikipédia, BIG Festival, Abragames, curadorias da Steam), com estúdio, cidade e estado, plataformas, preços em reais por loja e onde comprar. Atualizado toda semana; dados de 26 de novembro de 2026. Sem notas nem rankings de opinião.
+
+## Listas
+- [Catálogo](https://jogarei.com.br/catalogo/): todos os jogos verificados, dos mais relevantes aos menos, com busca e filtros (plataforma, preço, português, gênero, estado, lançamento, jogável no site)
+- [Lançamentos](https://jogarei.com.br/lancamentos/): jogos por mês de lançamento
+- [Grátis](https://jogarei.com.br/gratis/), [Até R$ 20](https://jogarei.com.br/ate-20-reais/) e [Em promoção](https://jogarei.com.br/promocao/): preços lidos nas lojas
+- [Estúdios](https://jogarei.com.br/estudios/) e [publicadoras](https://jogarei.com.br/estudios/publicadoras/)
+- [Como verificamos a origem](https://jogarei.com.br/metodologia/)
+
+## Estados
+- [Amazonas](https://jogarei.com.br/estado/am/): 3 jogos
+- [Bahia](https://jogarei.com.br/estado/ba/): 2 jogos
+- [Distrito Federal](https://jogarei.com.br/estado/df/): 2 jogos
+- [Goiás](https://jogarei.com.br/estado/go/): 2 jogos
+- [Maranhão](https://jogarei.com.br/estado/ma/): 3 jogos
+- [Mato Grosso do Sul](https://jogarei.com.br/estado/ms/): 4 jogos
+- [Minas Gerais](https://jogarei.com.br/estado/mg/): 1 jogos
+- [Paraná](https://jogarei.com.br/estado/pr/): 53 jogos
+- [Rio de Janeiro](https://jogarei.com.br/estado/rj/): 25 jogos
+- [Rio Grande do Sul](https://jogarei.com.br/estado/rs/): 102 jogos
+- [Santa Catarina](https://jogarei.com.br/estado/sc/): 11 jogos
+- [São Paulo](https://jogarei.com.br/estado/sp/): 138 jogos
+- [Sergipe](https://jogarei.com.br/estado/se/): 3 jogos
+
+## Gêneros
+
+## Jogarei TV
+- [Jogarei TV](https://jogarei.com.br/tv/): canal ao vivo que só passa trailers de jogos brasileiros, sincronizado com o relógio
+- [Top 10: os mais bem avaliados](https://jogarei.com.br/tv/top-10-mais-bem-avaliados/): Os dez jogos brasileiros com as melhores notas dos jogadores, contando do décimo ao primeiro. (10 jogos)
+- [Achados brasileiros](https://jogarei.com.br/tv/achados-brasileiros/): Oito jogos feitos no Brasil, um atrás do outro. Gostou de algum? É só tocar em Ver o jogo. (8 jogos)
+- [Top Jogarei: os mais jogados](https://jogarei.com.br/tv/top-mais-jogados/): Os jogos brasileiros mais jogados do catálogo, contando do nono ao primeiro. (9 jogos)
+- [Sessão do medo](https://jogarei.com.br/tv/sessao-do-medo/): Nove jogos de terror feitos no Brasil, um atrás do outro. Apaga a luz e aumenta o volume. (9 jogos)
+- [Morreu? Joga de novo](https://jogarei.com.br/tv/morreu-joga-de-novo/): Roguelikes e roguelites brasileiros, onde cada derrota manda de volta pro começo. Nove jogos pra morrer e tentar de novo. (9 jogos)
+- [Chama a galera](https://jogarei.com.br/tv/chama-a-galera/): Jogos brasileiros pra jogar junto, no mesmo sofá ou online. Chama quem você quiser. (9 jogos)
+- [Cabeça quente, episódio 1](https://jogarei.com.br/tv/cabeca-quente/): Jogos brasileiros de quebra-cabeça: labirintos, inventários, estrelas cadentes e um romance de Machado de Assis. (9 jogos)
+- [Pixel por pixel](https://jogarei.com.br/tv/pixel-por-pixel/): Jogos brasileiros em pixel art: uma galinha espiã, uma sacerdotisa contra demônios, corrida de fliperama e um ioiô amaldiçoado. (9 jogos)
+- [Pula-pula](https://jogarei.com.br/tv/pula-pula/): Plataforma feita no Brasil: um grafiteiro numa ilha poluída, uma freira contra a heresia, um mineiro em 3D e um herói que acaba vilão. (9 jogos)
+- [Quartel-general](https://jogarei.com.br/tv/quartel-general/): Jogos brasileiros de estratégia: torres para defender, baralhos para montar e jogadas para pensar antes de fazer. (10 jogos)
+- [Era uma vez](https://jogarei.com.br/tv/era-uma-vez/): Jogos brasileiros que contam história: Fausto em quadrinhos, uma rainha contra o zodíaco, um guerreiro pelado e um vendedor de porta em porta. (9 jogos)
+- [Ação sem pausa, episódio 1](https://jogarei.com.br/tv/acao-sem-pausa/): Dez jogos brasileiros de ação, um atrás do outro: tiro, espada, porrada e fuga. (10 jogos)
+- [Sobe de nível](https://jogarei.com.br/tv/sobe-de-nivel/): Dez RPGs brasileiros: fazenda tropical, capivara lendária, cavaleiro arturiano e baralho de monstros. (10 jogos)
+- [Pé na estrada, episódio 1](https://jogarei.com.br/tv/pe-na-estrada/): Dez aventuras brasileiras: fliperama, castelo retrô, ilha sem memória, ratos vingativos e um ninja de volta das férias. (10 jogos)
+- [Faz de conta](https://jogarei.com.br/tv/faz-de-conta/): Dez simulações brasileiras: granja de ovos, linha aérea alienígena, Stock Car V8, fazenda nos pampas e invasores dentro do computador. (10 jogos)
+- [Esse ou esse: Automobilista x Slipstream](https://jogarei.com.br/tv/automobilista-x-slipstream/): Esse ou esse: um simulador com a Stock Car Brasil contra uma corrida arcade dos anos 90. Assista aos dois e escolha. (2 jogos)
+- [Briga de sofá](https://jogarei.com.br/tv/briga-de-sofa/): Jogos brasileiros para jogar contra quem está do seu lado no sofá. Amizade nenhuma sai inteira. (8 jogos)
+- [De graça](https://jogarei.com.br/tv/de-graca/): Jogos brasileiros que não custam nada para jogar. É só escolher e baixar. (8 jogos)
+- [Fala português](https://jogarei.com.br/tv/fala-portugues/): Jogos brasileiros dublados em português. Aqui ninguém precisa de legenda. (8 jogos)
+- [Feito em São Paulo](https://jogarei.com.br/tv/feito-em-sao-paulo/): Jogos feitos em São Paulo, de coleções de fliperama a aventuras surreais. (8 jogos)
+- [Feito no Paraná](https://jogarei.com.br/tv/feito-no-parana/): Jogos feitos no Paraná, de Curitiba e de Londrina, a cidade que mais aparece neste bloco. (8 jogos)
+- [Passou pelo BIG](https://jogarei.com.br/tv/passou-pelo-big/): Jogos brasileiros que passaram pelo BIG Festival e pelo BIG Starter, um atrás do outro. (8 jogos)
+- [Saiu do forno](https://jogarei.com.br/tv/saiu-do-forno/): Fornada nova: os jogos brasileiros lançados nos últimos três meses, de uma maga a um baiacu. (8 jogos)
+- [Plantão Jogarei](https://jogarei.com.br/tv/plantao/): O boletim da semana: jogos brasileiros com os maiores descontos, lidos em 25 de novembro, e as notícias dos portáteis. (6 jogos)
+- [Viagem pelo Brasil, episódio 1](https://jogarei.com.br/tv/viagem-pelo-brasil/): Uma viagem pelas cidades onde se fazem jogos no Brasil, com os trailers de cada parada. (6 jogos)
+- [Ação sem pausa, episódio 2](https://jogarei.com.br/tv/acao-sem-pausa-2/): Mais dez jogos brasileiros de ação: tiro retrô, ruínas antigas, um mago, um patinho e até um sapo. (10 jogos)
+- [Cabeça quente, episódio 2](https://jogarei.com.br/tv/cabeca-quente-2/): Mais dez jogos brasileiros de quebra-cabeça: constelações, xadrez, trilhos entre ilhas, dois gatinhos e um templo corrompido. (10 jogos)
+- [Pé na estrada, episódio 2](https://jogarei.com.br/tv/pe-na-estrada-2/): Mais dez aventuras brasileiras: paisagens japonesas, um templo esquecido, gatos músicos, discos voadores e um slime que muda de forma. (10 jogos)
+- [Esse ou esse: Capytales x Guardião Tupã](https://jogarei.com.br/tv/capytales-x-guardiao-tupa/): Esse ou esse: dois jogos do folclore brasileiro contra o mesmo Corpo-Seco. Uma capivara com espíritos, um guerreiro de braço âmbar. Escolha o seu. (2 jogos)
+- [Viagem pelo Brasil, episódio 2](https://jogarei.com.br/tv/viagem-pelo-brasil-2/): A volta pelas cidades que fazem jogos no Brasil, agora com outros estúdios em cada parada. (6 jogos)
+- [Esse ou esse: Moonrider x Retro Machina](https://jogarei.com.br/tv/moonrider-x-retro-machina/): Esse ou esse: dois metroidvanias brasileiros. Um guardião em busca de vingança no estilo dezesseis bits, um robozinho num mundo retrofuturista. Escolha o seu. (2 jogos)
+- [Viagem pelo Brasil, episódio 3](https://jogarei.com.br/tv/viagem-pelo-brasil-3/): Mais uma volta pelas cidades que fazem jogos no Brasil, de brinquedo biomecânico a banda punk. (6 jogos)
+- [Esse ou esse: Road Defense x Grimhold](https://jogarei.com.br/tv/road-defense-x-grimhold/): Esse ou esse: dois tower defense roguelike brasileiros. Torres para proteger veículos na estrada, ou uma muralha de fantasia sombria contra legiões sem fim. (2 jogos)
+- [Viagem pelo Brasil, episódio 4](https://jogarei.com.br/tv/viagem-pelo-brasil-4/): A quarta volta pelas cidades que fazem jogos no Brasil, da bola no pé ao fim da civilização. (5 jogos)
+- [Esse ou esse: Chess Brain x Chessarama](https://jogarei.com.br/tv/chess-brain-x-chessarama/): Esse ou esse: dois quebra-cabeças de xadrez brasileiros. Um caminho para salvar o Rei enquanto tudo se move, ou uma coleção de desafios que reinventa as regras. (2 jogos)
+- [Viagem pelo Brasil, episódio 5](https://jogarei.com.br/tv/viagem-pelo-brasil-5/): A quinta volta pelas cidades que fazem jogos no Brasil, do kart com briga a uma uva atrás de vingança. (3 jogos)
+- [Esse ou esse: Necrosphere x REDO!](https://jogarei.com.br/tv/necrosphere-x-redo/): Esse ou esse: dois metroidvanias difíceis em pixel art. Uma aventura inteira com dois botões, ou uma jornada solitária num mundo de biomáquinas. (2 jogos)
+- [Esse ou esse: I Did Not Buy This Ticket x Red Tape](https://jogarei.com.br/tv/ticket-x-red-tape/): Esse ou esse: dois terrores narrativos brasileiros de 2023. Um ônibus de pesadelo entre funerais, ou nove níveis do inferno corporativo. (2 jogos)
+- [Esse ou esse: Road Scars x Warpzone Drifter](https://jogarei.com.br/tv/road-scars-x-warpzone-drifter/): Esse ou esse: duas corridas arcade retrô brasileiras de 2018. Moto em estrada sem fim ao som de punk rock, ou drift sem freio. (2 jogos)
+- [Vitrine relâmpago, episódio 10](https://jogarei.com.br/tv/vitrine-relampago-10/): Jogos casuais brasileiros sem trailer, em fotos rápidas: de uma capivara que vence na conversa a uma barraca de pastel e um passeio com o Totó. (10 jogos)
+- [Análise: Master Lemon](https://jogarei.com.br/tv/analise-master-lemon-the-quest-for-iceland/): Um poliglota, uma praga que apaga idiomas e uma homenagem a um amigo: a fundo na aventura em pixel art da Pepita Digital. (1 jogo)
+- [Esse ou esse: Deathbound x No Place for Bravery](https://jogarei.com.br/tv/deathbound-x-no-place-for-bravery/): Esse ou esse: dois RPGs de ação soulslike brasileiros. Trocar de corpo entre guerreiros mortos, ou aparar golpes em pixel art pintada à mão. (2 jogos)
+- [Análise: CATch the Stars](https://jogarei.com.br/tv/analise-catch-the-stars/): Um quebra-cabeça sem pontuação nem cronômetro, em que cada nível resolvido desenha uma constelação no céu. (1 jogo)
+- [Esse ou esse: Unlock The Cat x How To Bathe Your Cat](https://jogarei.com.br/tv/unlock-the-cat-x-bathe-your-cat/): Esse ou esse: dois puzzles brasileiros com gato. Abrir caminho para um gatinho preguiçoso, ou levar a água até um gato que não quer banho. (2 jogos)
+- [Vitrine relâmpago, episódio 11](https://jogarei.com.br/tv/vitrine-relampago-11/): Quebra-cabeças brasileiros sem trailer, em fotos rápidas: de detetives numa praça de Pelotas a um gênio que adivinha o número que você pensou. (10 jogos)
+- [Também no console](https://jogarei.com.br/tv/tambem-no-console/): Jogos brasileiros que saíram do computador e chegaram ao PlayStation, ao Xbox e ao Switch. (8 jogos)
+- [Análise: Mewseum: Masterpieces](https://jogarei.com.br/tv/analise-mewseum-masterpieces/): Um quebra-cabeça de números em que cada grade resolvida revela uma pintura famosa, refeita com um gato no papel principal. (1 jogo)
+
+## Dados
+- [Dados abertos](https://jogarei.com.br/dados/): o catálogo em CSV e JSON, licença CC BY 4.0
+
+## Optional
+- [Todos os jogos em texto](https://jogarei.com.br/llms-full.txt): um parágrafo por jogo
